@@ -32,7 +32,9 @@ if response.status_code == 200:
 #         "verify": {
 #             "verify": false,
 #             "noMatch": [
-#                 "minSpecialChars"
+#                 "minUppercase",
+#                 "minDigit",
+#                 "noRepeted"
 #             ]
 #         }
 #     }
