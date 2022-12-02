@@ -35,8 +35,8 @@ query {
 ## Dependencies
 - Python 3
 
-##How to use:
-#####Install requirements
+## How to use:
+##### Install requirements
 ```bash
 pip install -r requirements.txt
 ```
